@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello World! 
 
 <!--
 **Jashcraft/jashcraft** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- I am Jonathon Ashcraft! I am a long time IT engineer and more recently trained in web development using the MERN stack !  
+- You can reach me @ [_Linkedin_](https://www.linkedin.com/in/jashcraft1991/)
+- Or via [Email](mailto:ashcraft.jonathon@gmail.com)
+
+## A Few of My Favorite Things 
