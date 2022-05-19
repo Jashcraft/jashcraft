@@ -15,8 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- I am Jonathon Ashcraft! I am a long time IT engineer and more recently trained in web development using the MERN stack !  
-- You can reach me @ [_Linkedin_](https://www.linkedin.com/in/jashcraft1991/)
-- Or via [Email](mailto:ashcraft.jonathon@gmail.com)
+ I am Jonathon Ashcraft! I am a long time IT engineer and more recently trained in web development using the MERN stack !  
+ You can reach me @ [_Linkedin_](https://www.linkedin.com/in/jashcraft1991/)
+ Or via [Email](mailto:ashcraft.jonathon@gmail.com)
 
 ## A Few of My Favorite Things 
+
+- Dev Technologies : Shouldn't have started with this one but I love backend and infrastructure (I see containerization and orchestration on my horizon!)
+- Favorite Project of mine so far: Deck Builder [View](https://moses-ian-deck-builder.herokuapp.com/) 
+- Hobby: Music!! Been writing since I was a child []
