@@ -22,5 +22,5 @@ Here are some ideas to get you started:
 ## A Few of My Favorite Things 
 
 - Dev Technologies : Shouldn't have started with this one but I love backend and infrastructure (I see containerization and orchestration on my horizon!)
-- Favorite Project of mine so far: Deck Builder [View](https://moses-ian-deck-builder.herokuapp.com/) 
-- Hobby: Music!! Been writing since I was a child [Some Jingles](https://soundcloud.com/vulture-colorado)
+- Favorite Project of mine so far: Deck Builder.   [View](https://moses-ian-deck-builder.herokuapp.com/) 
+- Hobby: Music!! Been writing since I was a child.   [Some Jingles](https://soundcloud.com/vulture-colorado)
